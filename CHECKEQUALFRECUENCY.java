@@ -2,7 +2,7 @@
 
 CODESIGNAL - CHECKEQUALFRECUENCY - CHALLENGE
 
-Source Help: https://www.geeksforgeeks.org/arrays-sort-in-java-with-examples/
+Source Help: https://stackoverflow.com/questions/13796928/how-to-get-unique-values-from-array#comment18976862_13796928
 
 Given array of integers, check whether each integer, that occurs in it, is contained there the same number of times as
 any other integer from the given array.
